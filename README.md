@@ -6,17 +6,17 @@ The purpose of the website was to test our skills with React.
 
 A simple visit to our fictional plant nursery site would go something like this: 
 
-The visitor can seach plants by name. 
-    Once the search is complete, they can select from a list of options listing name of the plant and a thumbnail. 
-    If selected, an accordian menu will open displaying a larger photo of the image and it's details. 
-If the visitor would like additional information or to purchase, there is a button where they are then taken to a card displaying again, the photo and details but this time it includes the price of the plant and a box to add or subtract a quantity. 
-    If added, that number will pop up in the top right in the shopping cart! 
-The shopping cart has it's own drop down displaying a thumbnail with the name and quantity of the plant ordered, and the cart total. 
-    The visitor has the option there to increase or decrease the quantity as well. 
-If the visitor exits out of the cart preview and initial plant card, they will see a 4 x 'infinate scroll' grid of other cards that also appeared in the search. 
-    Each card, before clicked, has a large photo of the plant, it's name, price, and the option to add it to your card. 
-    If clicked, the viewer will see the card open into a modal with all the plant information. 
-When checking out, it is a simple billing/shipping address form with the option to check a box to copy the address information over to avoid retyping. 
+-The visitor can seach plants by name. 
+    -Once the search is complete, they can select from a list of options listing name of the plant and a thumbnail. 
+    -If selected, an accordian menu will open displaying a larger photo of the image and it's details. 
+-If the visitor would like additional information or to purchase, there is a button where they are then taken to a card displaying again, the photo and details but this time it includes the price of the plant and a box to add or subtract a quantity. 
+    -If added, that number will pop up in the top right in the shopping cart! 
+-The shopping cart has it's own drop down displaying a thumbnail with the name and quantity of the plant ordered, and the cart total. 
+    -The visitor has the option there to increase or decrease the quantity as well. 
+-If the visitor exits out of the cart preview and initial plant card, they will see a 4 x 'infinate scroll' grid of other cards that also appeared in the search. 
+    -Each card, before clicked, has a large photo of the plant, it's name, price, and the option to add it to your card. 
+    -If clicked, the viewer will see the card open into a modal with all the plant information. 
+-When checking out, it is a simple billing/shipping address form with the option to check a box to copy the address information over to avoid retyping. 
 
 ## My Contribution
 
