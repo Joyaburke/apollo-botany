@@ -46,7 +46,3 @@ This project solidified that I truly LOVE being a developer. Through this projec
 
 It was fun to have so many tools at our disposal that we had to take a day to sort of reign it in since we were not only getting ahead of ourselves, but getting a little overwhelmed with the possibilities as well. This was the project I felt we became a real team! Projects since have been much easier, streamlined, and enjoyable.
 
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
